@@ -332,11 +332,13 @@ button {
 
 .roundButton img {
     margin: 0 auto;
+    padding-top: 5px;
     align-content: center;
 }
 
 .grayButton {
     cursor: pointer;
+    align-content: center;
 }
 
 .pointer-line {
