@@ -1,12 +1,14 @@
 body {
-    background-color: #E5E5E5;
+    background-color: #ececec;
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
 }
-
+a{
+     text-decoration: none; 
+}
 a.active,a:hover{
     text-decoration: underline;
 }
@@ -676,11 +678,12 @@ select {
 }
 
 footer {
-    background-image: url("img/others/footer.svg");
+    background-image: url("img/svg/footer.svg");
     background-size: 1550px;
     width: 100%;
     margin-top: 300px;
     padding-top: 50px;
+}
 }
 
 .footerBlock {
