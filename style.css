@@ -65,7 +65,7 @@ button {
     background: #FFFFFF;
     font-weight: 600;
     font-size: 20px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans', sans-serif;
 }
 
 .headerContainer {
@@ -216,8 +216,8 @@ button {
 }
 
 .advantage {
-    background: linear-gradient(70.6deg, #35CC79 10.03%, rgba(52, 125, 85, 0.65) 139.7%);
-    box-shadow: 0 0 0.5px rgba(0, 0, 0, 0.08), 0 0.5px 6px rgba(0, 0, 0, 0.08);
+    background: linear-gradient(70.79deg, #35CC79 10.03%, #347D55 114.42%);
+    box-shadow: 0px 0px 0.498136px rgba(0, 0, 0, 0.08), 0px 0.498136px 5.97763px rgba(0, 0, 0, 0.08);
     border-radius: 10px;
     width: 249px;
     height: 231px;
@@ -243,6 +243,7 @@ button {
 .advantage p {
     font-size: 20px;
     font-family: 'Open Sans', serif;
+    font-style: normal;
     text-align: center;
     display: block;
     margin: 7px 10px 5px 10px;
